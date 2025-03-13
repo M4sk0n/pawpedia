@@ -1,0 +1,134 @@
+{
+  "dogs": {
+    "german_shepherd": {
+      "name": "German Shepherd",
+      "image": "image/breeds/dogs/1.jpg",
+      "characteristics": "Large, athletic build with a distinctive black and tan coat. Strong, muscular body with erect ears.",
+      "temperament": "Intelligent, loyal, confident, and highly trainable. Excellent working dog and family companion.",
+      "care": "Regular exercise needed, twice-daily walks and mental stimulation. Regular brushing for shedding.",
+      "health": "Monitor for hip dysplasia, elbow dysplasia, and degenerative myelopathy."
+    },
+    "golden_retriever": {
+      "name": "Golden Retriever",
+      "image": "image/breeds/dogs/2.jpg",
+      "characteristics": "Medium to large-sized with dense, water-repellent golden coat. Athletic and well-balanced.",
+      "temperament": "Friendly, intelligent, devoted, and patient. Great with children and other pets.",
+      "care": "Daily exercise required, regular grooming needed. Loves swimming and retrieving games.",
+      "health": "Watch for hip dysplasia, eye problems, and cardiac issues."
+    },
+    "siberian_husky": {
+      "name": "Siberian Husky",
+      "image": "image/breeds/dogs/3.jpg",
+      "characteristics": "Medium-sized with thick double coat. Beautiful facial masks and markings.",
+      "temperament": "Energetic, independent, friendly. Strong pack instinct and high prey drive.",
+      "care": "High exercise needs, regular brushing during shedding. Secure fencing essential.",
+      "health": "Monitor for eye problems, hip dysplasia, and skin conditions."
+    },
+    "bulldog": {
+      "name": "Bulldog",
+      "image": "image/breeds/dogs/4.jpg",
+      "characteristics": "Muscular, wrinkled face, pushed-in nose. Compact, broad, and powerful build.",
+      "temperament": "Docile, friendly, and willful. Great with families and children.",
+      "care": "Moderate exercise needs, regular face fold cleaning, keep cool in hot weather.",
+      "health": "Monitor breathing issues, hip problems, and skin fold infections."
+    },
+    "beagle": {
+      "name": "Beagle",
+      "image": "image/breeds/dogs/5.jpg",
+      "characteristics": "Small to medium-sized with strong, compact body. Distinctive tri-colored coat.",
+      "temperament": "Merry, friendly, and curious. Excellent with children and other dogs.",
+      "care": "Regular exercise, secure fencing, consistent training approach.",
+      "health": "Watch for obesity, ear infections, and hypothyroidism."
+    },
+    "alaskan_husky": {
+      "name": "Alaskan Husky",
+      "image": "image/breeds/dogs/6.jpg",
+      "characteristics": "Athletic build with thick double coat. Strong endurance and working ability.",
+      "temperament": "Energetic, friendly, and hardworking. Strong pack mentality.",
+      "care": "High exercise needs, regular grooming during shedding seasons.",
+      "health": "Monitor for eye problems, hip dysplasia, and exercise-related issues."
+    },
+    "poodle": {
+      "name": "Poodle",
+      "image": "image/breeds/dogs/7.jpg",
+      "characteristics": "Elegant appearance with distinctive curly coat. Well-proportioned and proud.",
+      "temperament": "Highly intelligent, active, and dignified. Excellent family companions.",
+      "care": "Regular professional grooming, daily exercise, mental stimulation.",
+      "health": "Watch for hip problems, eye issues, and skin conditions."
+    },
+    "chihuahua": {
+      "name": "Chihuahua",
+      "image": "image/breeds/dogs/8.jpg",
+      "characteristics": "Tiny size with either short or long coat. Alert expression and saucy personality.",
+      "temperament": "Confident, alert, and devoted to owners. Can be reserved with strangers.",
+      "care": "Moderate exercise needs, dental care important, protect from cold.",
+      "health": "Monitor for heart issues, dental problems, and patellar luxation."
+    }
+  },
+  "cats": {
+    "persian": {
+      "name": "Persian",
+      "image": "image/breeds/cats/9.jpg",
+      "characteristics": "Long, luxurious coat, round face, short muzzle, and large eyes.",
+      "temperament": "Sweet, gentle, and quiet. Perfect for calm environments.",
+      "care": "Daily grooming, indoor lifestyle, regular face cleaning.",
+      "health": "Watch for respiratory issues, eye problems, and kidney disease."
+    },
+    "siamese": {
+      "name": "Siamese",
+      "image": "image/breeds/cats/10.jpg",
+      "characteristics": "Sleek build, distinctive color points, striking blue eyes.",
+      "temperament": "Vocal, intelligent, social. Strong bonds with owners.",
+      "care": "Light grooming, needs mental stimulation and play.",
+      "health": "Monitor respiratory issues and dental health."
+    },
+    "british_shorthair": {
+      "name": "British Shorthair",
+      "image": "image/breeds/cats/11.jpg",
+      "characteristics": "Round face, dense coat, sturdy build. Known for their 'teddy bear' look.",
+      "temperament": "Calm, patient, and easygoing. Good with children and other pets.",
+      "care": "Weekly brushing, moderate exercise needs.",
+      "health": "Watch for hypertrophic cardiomyopathy and obesity."
+    },
+    "maine_coon": {
+      "name": "Maine Coon",
+      "image": "image/breeds/cats/12.jpg",
+      "characteristics": "Large size, long flowing coat, distinctive ruff around neck.",
+      "temperament": "Gentle giants, friendly, good with families.",
+      "care": "Regular grooming, large litter box, interactive play.",
+      "health": "Monitor for hip dysplasia and heart conditions."
+    },
+    "ragdoll": {
+      "name": "Ragdoll",
+      "image": "image/breeds/cats/13.jpg",
+      "characteristics": "Large cat with semi-long coat, striking blue eyes.",
+      "temperament": "Relaxed, affectionate, tends to go limp when held.",
+      "care": "Regular grooming, indoor lifestyle recommended.",
+      "health": "Watch for heart disease and urinary issues."
+    },
+    "sphynx": {
+      "name": "Sphynx",
+      "image": "image/breeds/cats/14.jpg",
+      "characteristics": "Hairless breed with wrinkled skin, large ears.",
+      "temperament": "Energetic, attention-seeking, very social.",
+      "care": "Weekly baths, protect from sun, keep warm.",
+      "health": "Monitor skin conditions and heart health."
+    },
+    "american_shorthair": {
+      "name": "American Shorthair",
+      "image": "image/breeds/cats/15.jpg",
+      "characteristics": "Athletic, medium-sized with short, dense coat.",
+      "temperament": "Adaptable, good-natured, excellent hunters.",
+      "care": "Weekly brushing, moderate exercise needs.",
+      "health": "Generally healthy, watch for heart disease."
+    },
+    "burmese": {
+      "name": "Burmese",
+      "image": "image/breeds/cats/16.jpg",
+      "characteristics": "Compact, muscular with glossy coat.",
+      "temperament": "Playful, social, people-oriented.",
+      "care": "Minimal grooming, lots of interaction needed.",
+      "health": "Monitor for cranial deformities and glaucoma."
+    }
+  }
+}
